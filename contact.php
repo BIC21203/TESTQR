@@ -46,7 +46,7 @@
             
         </form>
 		<br>
-		<div class = "input-group">
+		<div class = "input-group" action="contact2.php>
             <button type="submit" class="btn"  
 			name = "submit" id="submit" value="Submit">  Submit </button>
             </div>
